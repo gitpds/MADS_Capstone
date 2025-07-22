@@ -1,0 +1,8 @@
+indicator,best_lag,min_p_value,significant_5pct,description
+RSAFS,3,0.22345086672344766,False,Retail Sales and Food Services
+PCE,1,0.2351116479680846,False,Personal Consumption Expenditures
+CC4WSA,2,0.00031002415000515776,True,Consumer Credit Outstanding
+HOUST,5,0.001885494567500747,True,Housing Starts
+DGORDER,1,0.19012957931808713,False,Durable Goods Orders
+PSAVERT,2,0.3776650646097883,False,Personal Savings Rate
+BUSINV,2,0.03663743844822228,True,Total Business Inventories
