@@ -1,10 +1,10 @@
 {
   "total_series": 44,
   "successful": 42,
-  "cache_hits": 20,
-  "api_calls": 22,
+  "cache_hits": 42,
+  "api_calls": 0,
   "errors": 2,
-  "elapsed_time": 12.9462149143219,
+  "elapsed_time": 0.7917897701263428,
   "error_details": [
     [
       "UMEXPINF1YR",

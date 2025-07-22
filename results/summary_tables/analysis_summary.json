@@ -33,16 +33,16 @@
   "Model Performance": {
     "OLS Regression": {
       "Train R\u00b2": 0.9239774436272439,
-      "Test R\u00b2": -2.56893672317673,
-      "Train RMSE": 3.387975766131322,
-      "Test RMSE": 19.92638771673116,
+      "Test R\u00b2": -2.5689367231778597,
+      "Train RMSE": 3.3879757661313215,
+      "Test RMSE": 19.926387716734315,
       "N Features": 15
     },
     "Random Forest": {
-      "Train R\u00b2": 0.9810246021247981,
-      "Test R\u00b2": 0.7259511502987679,
-      "Train RMSE": 1.6926396344999692,
-      "Test RMSE": 5.521704282244788,
+      "Train R\u00b2": 0.9810048493446828,
+      "Test R\u00b2": 0.7195506873913855,
+      "Train RMSE": 1.6935203971127537,
+      "Test RMSE": 5.585812354432116,
       "N Features": 15
     }
   },
