@@ -22,7 +22,7 @@ This project investigates the drivers and predictability of U.S. consumer sentim
     - `cache/`: Cached API responses for reproducibility
 
 ## Data Sources
-- **FRED API**: 43+ economic indicators, including inflation, unemployment, stock market, housing, interest rates, and more
+- **FRED API**: 43+ economic indicators, including inflation, unemployment, stock market, housing, interest rates, and more. To access this data, request an API key here: https://fred.stlouisfed.org/docs/api/api_key.html
 - **UMCSENT**: University of Michigan Consumer Sentiment Index (target variable)
 
 ## Main Steps
