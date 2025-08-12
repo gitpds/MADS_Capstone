@@ -21,7 +21,7 @@ This project investigates the drivers and predictability of U.S. consumer sentim
     - `visualizations/`: Plots and figures
     - `cache/`: Cached API responses for reproducibility
 
-## Data Sources
+## Data Access Statement
 - **FRED API**: 43+ economic indicators, including inflation, unemployment, stock market, housing, interest rates, and more. To access this data, request an API key here: https://fred.stlouisfed.org/docs/api/api_key.html
 - **UMCSENT**: University of Michigan Consumer Sentiment Index (target variable)
 
@@ -71,6 +71,7 @@ See `requirements.txt` for all dependencies. Key packages:
 - Paul Stotts (pdstotts)
 - Dave Norine (dnorine)
 - Ali Alrubaiee (aalrubai)
+- Tools Used: Generative AI
 
 ## License
 This project is for educational purposes. Please cite appropriately if using or extending this work.
