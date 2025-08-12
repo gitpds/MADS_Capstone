@@ -45,6 +45,12 @@ This project investigates the drivers and predictability of U.S. consumer sentim
      ```
 3. **Run the notebook**
    - Open `Final_unified_sentiment_analysis.ipynb` in Jupyter and run all cells.
+  
+## Generative AI Usage
+1. Code Auditing
+2. Code Syntax Assistance
+3. Documentation Assistance
+4. Research Assistance
 
 ## Requirements
 See `requirements.txt` for all dependencies. Key packages:
@@ -71,7 +77,6 @@ See `requirements.txt` for all dependencies. Key packages:
 - Paul Stotts (pdstotts)
 - Dave Norine (dnorine)
 - Ali Alrubaiee (aalrubai)
-- Tools Used: Generative AI
 
 ## License
 This project is for educational purposes. Please cite appropriately if using or extending this work.
